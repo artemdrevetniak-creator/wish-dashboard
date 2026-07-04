@@ -1,6 +1,6 @@
 const user = {
-	name: 'Іван',
-	surname: 'Шевченко',
+	name: 'Артем',
+	surname: 'Древетняк',
 	userPhoto: 'my-photo.jpg',
 	qrQode: 'qr-code.svg',
 	dreams: [
